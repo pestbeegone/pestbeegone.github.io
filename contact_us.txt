@@ -1,0 +1,455 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"xml:lang="en" >
+<!-- DW6 -->
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app2.us.archive.org";archive_analytics.values.server_ms=107;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<!-- Copyright 2005 pestbeegone. All rights reserved. -->
+<title>PEST CONTROL ,PEST TREATMENTS ,DIDCOT,ABINGDON,OXFORD,WANTAGE,NEWBURY,READING,MOLE,WASPS NESTS,RATS,MICE</title>
+<meta name="description" content=" Pest Control treatments for rats-mice-moles-wasps nests in didcot,call us on 07709323095"/>
+<meta name="keywords" content="PEST CONTROL,PEST TREATMENTS,Rentokil baits, Killgerm baits, Environmental Supplies baits,pest control didcot,rat control didcot,wasps nests didcot,ants,bee,cockroaches,wasps nests,bedbugs,mice,glis glis,flies,rabbits,moles,beetles,moth,mites,squirrel,bird,pigeon" />
+<meta name="Robots" content="INDEX,FOLLOW" />
+<meta name="revisit-after" content="7 days" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="google-site-verification" content="37zHBRStT869tNbz6D166LGY9oCFzl3G20gTtLXi-Ts" />
+<link rel="stylesheet" href="www.pestbeegone.org.css" type="text/css" />
+<link rel="stylesheet" href="www.pestbeegone.org/sitemap.xml" type="text/css" />
+<script language="JavaScript" type="text/javascript">
+//--------------- LOCALIZEABLE GLOBALS ---------------
+var d=new Date();
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+//Ensure correct for language. English is "January 1, 2004"
+var TODAY = monthname[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+//---------------   END LOCALIZEABLE   ---------------
+</script>
+<style type="text/css">
+<!--
+.style2 {
+	font-size: 18px;
+	color: #99CC66;
+}
+.style3 {font-size: 14px}
+.style4 {color: #000000}
+.style5 {
+	font-size: 18px;
+	color: #000000;
+}
+.style7 {
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+}
+-->
+</style></head>
+<body bgcolor="#F4FFE4">
+
+
+<!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript" src="/static/js/graph-calc.js" ></script>
+<script type="text/javascript" src="/static/jflot/jquery.min.js" ></script>
+<script type="text/javascript">//<![CDATA[
+var __wm = (function(){
+var wbPrefix = "/web/";
+var wbCurrentUrl = "http://www.pestbeegone.org/";
+
+var firstYear = 1996;
+var imgWidth = 500,imgHeight = 27;
+var yearImgWidth = 25,monthImgWidth = 2;
+var displayDay = "22";
+var displayMonth = "Sep";
+var displayYear = "2011";
+var prettyMonths = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+var $D=document,$=function(n){return document.getElementById(n)};
+var trackerVal,curYear = -1,curMonth = -1;
+var yearTracker,monthTracker;
+function showTrackers(val) {
+  if (val===trackerVal) return;
+  var $ipp=$("wm-ipp");
+  var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
+  if (val) {
+    $ipp.className="hi";
+  } else {
+    $ipp.className="";
+    $y.innerHTML=displayYear;$m.innerHTML=displayMonth;$d.innerHTML=displayDay;
+  }
+  yearTracker.style.display=val?"inline":"none";
+  monthTracker.style.display=val?"inline":"none";
+  trackerVal = val;
+}
+function getElementX2(obj) {
+  var $e=jQuery(obj);
+  return (typeof $e=="undefined"||typeof $e.offset=="undefined")?
+    getElementX(obj):Math.round($e.offset().left);
+}
+function trackMouseMove(event,element) {
+  var eventX = getEventX(event);
+  var elementX = getElementX2(element);
+  var xOff = Math.min(Math.max(0, eventX - elementX),imgWidth);
+  var monthOff = xOff % yearImgWidth;
+
+  var year = Math.floor(xOff / yearImgWidth);
+  var monthOfYear = Math.min(11,Math.floor(monthOff / monthImgWidth));
+  // 1 extra border pixel at the left edge of the year:
+  var month = (year * 12) + monthOfYear;
+  var day = monthOff % 2==1?15:1;
+  var dateString = zeroPad(year + firstYear) + zeroPad(monthOfYear+1,2) +
+    zeroPad(day,2) + "000000";
+
+  $("displayYearEl").innerHTML=year+firstYear;
+  $("displayMonthEl").innerHTML=prettyMonths[monthOfYear];
+  // looks too jarring when it changes..
+  //$("displayDayEl").innerHTML=zeroPad(day,2);
+  var url = wbPrefix + dateString + '/' +  wbCurrentUrl;
+  $("wm-graph-anchor").href=url;
+
+  if(curYear != year) {
+    var yrOff = year * yearImgWidth;
+    yearTracker.style.left = yrOff + "px";
+    curYear = year;
+  }
+  if(curMonth != month) {
+    var mtOff = year + (month * monthImgWidth) + 1;
+    monthTracker.style.left = mtOff + "px";
+    curMonth = month;
+  }
+}
+function hideToolbar() {
+  $("wm-ipp").style.display="none";
+}
+function bootstrap() {
+  var $spk=$("wm-ipp-sparkline");
+  yearTracker=$D.createElement('div');
+  yearTracker.className='yt';
+  with(yearTracker.style){
+    display='none';width=yearImgWidth+"px";height=imgHeight+"px";
+  }
+  monthTracker=$D.createElement('div');
+  monthTracker.className='mt';
+  with(monthTracker.style){
+    display='none';width=monthImgWidth+"px";height=imgHeight+"px";
+  }
+  $spk.appendChild(yearTracker);
+  $spk.appendChild(monthTracker);
+
+  var $ipp=$("wm-ipp");
+  $ipp&&disclaimElement($ipp);
+}
+return{st:showTrackers,mv:trackMouseMove,h:hideToolbar,bt:bootstrap};
+})();//]]>
+</script>
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  min-width:800px !important;
+}
+</style>
+<div id="wm-ipp" lang="en" style="display:none;">
+
+<div style="position:fixed;left:0;top:0;width:100%!important">
+<div id="wm-ipp-inside">
+   <table style="width:100%;"><tbody><tr>
+   <td id="wm-logo">
+       <a href="/web/" title="Wayback Machine home page"><img src="/static/images/toolbar/wayback-toolbar-logo.png" alt="Wayback Machine" width="110" height="39" border="0" /></a>
+   </td>
+   <td class="c">
+       <table style="margin:0 auto;"><tbody><tr>
+       <td class="u" colspan="2">
+       <form target="_top" method="get" action="/web/form-submit.jsp" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://www.pestbeegone.org/" style="width:400px;" onfocus="this.focus();this.select();" /><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20110922224845" /><input type="submit" value="Go" /><span id="wm_tb_options" style="display:block;"></span></form>
+       </td>
+       <td class="n" rowspan="2">
+           <table><tbody>
+           <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+           <tr class="m">
+           	<td class="b" nowrap="nowrap">
+		
+		    <a href="/web/20110715140815/http://pestbeegone.org/" title="15 Jul 2011">JUL</a>
+		
+		</td>
+		<td class="c" id="displayMonthEl" title="You are here: 22:48:45 Sep 22, 2011">SEP</td>
+		<td class="f" nowrap="nowrap">
+		
+		    <a href="/web/20130624164042/http://pestbeegone.org/" title="24 Jun 2013"><strong>JUN</strong></a>
+		
+                </td>
+	    </tr>
+           <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+           <tr class="d">
+               <td class="b" nowrap="nowrap">
+               
+                   <a href="/web/20110903040140/http://pestbeegone.org/" title="4:01:40 Sep 3, 2011"><img src="/static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a>
+               
+               </td>
+               <td class="c" id="displayDayEl" style="width:34px;font-size:24px;" title="You are here: 22:48:45 Sep 22, 2011">22</td>
+	       <td class="f" nowrap="nowrap">
+               
+		   <a href="/web/20130624164042/http://pestbeegone.org/" title="16:40:42 Jun 24, 2013"><img src="/static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a>
+	       
+	       </td>
+           </tr>
+           <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+           <tr class="y">
+	       <td class="b" nowrap="nowrap">
+               
+                   2010
+               
+               </td>
+               <td class="c" id="displayYearEl" title="You are here: 22:48:45 Sep 22, 2011">2011</td>
+	       <td class="f" nowrap="nowrap">
+               
+	           <a href="/web/20130624164042/http://pestbeegone.org/" title="24 Jun 2013"><strong>2013</strong></a>
+	       
+	       </td>
+           </tr>
+           </tbody></table>
+       </td>
+       </tr>
+       <tr>
+       <td class="s">
+           <a class="t" href="/web/20110922224845*/http://www.pestbeegone.org/" title="See a list of every capture for this URL">7 captures</a>
+           <div class="r" title="Timespan for captures of this URL">8 Jan 11 - 9 Jan 14</div>
+       </td>
+       <td class="k">
+       <a href="" id="wm-graph-anchor">
+       <div id="wm-ipp-sparkline" title="Explore captures for this URL">
+	 <img id="sparklineImgId" alt="sparklines"
+		 onmouseover="__wm.st(1)" onmouseout="__wm.st(0)"
+		 onmousemove="__wm.mv(event,this)"
+		 width="500"
+		 height="27"
+		 border="0"
+		 src="/web/jsp/graph.jsp?graphdata=500_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000000000000_2008:-1:000000000000_2009:-1:000000000000_2010:-1:000000000000_2011:8:100000102000_2012:-1:000000000000_2013:-1:000001100000_2014:-1:100000000000_2015:-1:000000000000" />
+       </div>
+       </a>
+       </td>
+       </tr></tbody></table>
+   </td>
+   <td class="r">
+       <a href="#close" onclick="__wm.h();return false;" style="background-image:url(/static/images/toolbar/wm_tb_close.png);top:5px;" title="Close the toolbar">Close</a>
+       <a href="http://faq.web.archive.org/" style="background-image:url(/static/images/toolbar/wm_tb_help.png);bottom:5px;" title="Get some help using the Wayback Machine">Help</a>
+   </td>
+   </tr></tbody></table>
+</div>
+</div>
+</div>
+<script type="text/javascript">__wm.bt();</script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#D5EDB3">
+    <td width="382" colspan="3" rowspan="2"><img src="mm_health_photo.jpg" alt="Header image" width="382" height="101" border="0" /></td>
+    <td width="378" height="50" colspan="3" id="logo" valign="bottom" align="center" nowrap="nowrap"><strong>PEST BEE GONE</strong> </td>
+    <td width="100%">&nbsp;</td>
+  </tr>
+
+  <tr bgcolor="#D5EDB3">
+    <td height="51" colspan="3" id="tagline" valign="top" align="center">Pest Control </td>
+	<td width="100%">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td colspan="7" bgcolor="#5C743D"><img src="mm_spacer.gif" alt="" width="1" height="2" border="0" /></td>
+  </tr>
+
+  <tr>
+    <td colspan="7" bgcolor="#99CC66" background="mm_dashed_line.gif"><img src="mm_dashed_line.gif" alt="line decor" width="4" height="3" border="0" /></td>
+  </tr>
+
+  <tr bgcolor="#99CC66">
+  	<td colspan="7" id="dateformat" height="20">&nbsp;&nbsp;<script language="JavaScript" type="text/javascript">
+      document.write(TODAY);	</script>	</td>
+  </tr>
+  <tr>
+    <td colspan="7" bgcolor="#99CC66" background="mm_dashed_line.gif"><img src="mm_dashed_line.gif" alt="line decor" width="4" height="3" border="0" /></td>
+  </tr>
+
+  <tr>
+    <td colspan="7" bgcolor="#5C743D"><img src="mm_spacer.gif" alt="" width="1" height="2" border="0" /></td>
+  </tr>
+
+ <tr>
+    <td width="165" valign="top" bgcolor="#5C743D">
+	<table border="0" cellspacing="0" cellpadding="0" width="165" id="navigation">
+        <tr>
+          <td width="165">&nbsp;<br />
+		 &nbsp;<br /></td>
+        </tr>
+        <tr>
+          <td width="165"><a href="about us.html" class="navText">ABOUT US</a></td>
+        </tr>
+        <tr>
+          <td width="165"><a href="contact us.html" class="navText">CONTACT US</a></td>
+        </tr>
+        <tr>
+          <td width="165"><a href="hot offers.html" class="navText">HOT OFFERS</a></td>
+        </tr>
+        <tr>
+          <td width="165"><a href="ants.html" class="navText">ANTS</a></td>
+        </tr>
+        <tr>
+          <td width="165"><a href="bee.html" class="navText">BEE</a></td>
+        </tr>
+		<tr>
+          <td width="165"><a href="cockroaches.html" class="navText">COCKROACHES</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="wasps nests.html" class="navText">WASPS NESTS</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="bedbugs.html" class="navText">BEDBUGS</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="rats.html" class="navText">RATS</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="mice.html" class="navText">MICE</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="glis glis.html" class="navText">GLIS GLIS</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="flies.html" class="navText">FLIES</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="rabbits.html" class="navText">RABBITS</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="moles.html" class="navText">MOLES</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="beetles moths.html" class="navText">BEETLES/MOTHS</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="mites.html" class="navText">MITES</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="squirrels.html" class="navText">SQUIRRELS</a></td>
+		   </tr>
+		<tr>
+		<td width="165"><a href="fleas.html" class="navText">FLEAS</a></td>
+		   </tr>
+		<tr>
+          <td width="165"><a href="pigeon shooting proofing.html" class="navText">BIRD SHOOTING/PROOFING</a></td>
+      </table>
+ 	 <br />
+  	&nbsp;<br />
+  	&nbsp;<br />
+  	&nbsp;<br /> 	</td>
+    <td width="50"><img src="mm_spacer.gif" alt="" width="50" height="1" border="0" /></td>
+    <td width="305" colspan="2" valign="top"><img src="mm_spacer.gif" alt="" width="305" height="1" border="0" /><br />
+	&nbsp;<br />
+	&nbsp;<br />
+	<table border="0" cellspacing="0" cellpadding="0" width="305">
+        <tr>
+          <td class="pageName"><div align="center"></div></td>
+		</tr>
+
+		<tr>
+          <td class="bodyText"><table border="0" cellpadding="0" cellspacing="0" width="305">
+            <tbody>
+              <tr>
+                <td><p align="center" class="style7">We Are Fully Licensed, Insured and Certified </p>
+                  <p align="center" class="style7">We treat Commercial-Residential-Private</p>
+                  <p align="center" class="style4">Our company uses an integrated pest management approach in order to solve pest problems.The first thing we do is conduct an inspection of your house or commercial establishment in order to determine the pest causing your problem like Rats , Mice , Glis Glis, Rabbits, and insects like Wasps, Bee's, Ants, Fleas, Cockroaches and Bedbugs, to find the extent of the infestation, and the reasons for the problem. We use this information, along with details you provide us, to formulate a pest management plan to solve your problem. We use reduced risk pest management strategies, which might include sanitation, mechanical control and the use of rodenticides ,which come from trusted sources such as Rentokil, Killgerm, Environmental Supplies. Some of these strategies may be your responsibility to complete others will be ours. Our goal is to solve your pest management problem while minimizing the risk to you, your family, and your environment.</p>
+                  <p align="center" class="style5"><u>DIRECT TO A PEST TECHNICIAN</u></p>
+                    <p align="center" class="style5">07709323095</p></td>
+                                  </tr>
+            </tbody>
+          </table>
+           &nbsp;
+</div>
+<script src="/web/20110922224845js_/http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 6,
+  interval: 30000,
+  width: 300,
+  height: 350,
+  theme: {
+    shell: {
+      background: '#333333',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#000000',
+      color: '#ffffff',
+      links: '#4aed05'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('pestbeegone').start();
+</script><p>&nbsp;</p>
+
+		</td>
+        </tr>
+      </table>
+	 <br />
+	&nbsp;<br />	</td>
+    <td width="50"><img src="mm_spacer.gif" alt="" width="50" height="1" border="0" /></td>
+        <td width="190" valign="top"><p>&nbsp;</p>
+          <p align="center"><span class="style2">COVERAGE</span><br />
+		  </p>
+          <table border="0" cellspacing="0" cellpadding="0" width="190" id="leftcol">
+
+	   <tr>
+       <td width="10"><img src="mm_spacer.gif" alt="" width="10" height="1" border="0" /></td>
+		<td width="170" class="smallText"><br />
+			<p align="center"><span class="subHeader style3">OXFORDSHIRE</span><br />
+			  <span class="style4">DIDCOT,.WALLINGFORD,OXFORD,WANTAGE,</span></p>
+			<p align="center"><span class="style4">HENLEY ON THAMES,BICESTER,THAME</span>, </p>
+			<p align="center"><span class="subHeader style3">BERKSHIRE</span><br />
+			  <span class="style4">READING,MAIDENHEAD.CAVERSHAM,</span></p>
+			<p align="center" class="style4">BRACKNELL,NEWBURY,PANGBOURNE </p>
+			<p align="center"><span class="subHeader style3">BUCKINGHAMSHIRE</span><br />
+			  <span class="style4">HIGH WYCOMBE,STOKENCHURCH,SLOUGH</span>,</p>
+			<p align="center" class="style4"> ,AYLESBURY </p>
+			<p align="center">&nbsp;<a href="/web/20110922224845/http://pestbeegone.wordpress.com/"><img src="btn_Blog.gif" alt="Visit Our Blog" name="btnBlog" id="btnBlog" onMouseOver="MM_swapImage('btnBlog','','/images/btn_Blog_on.gif',0)" onMouseOut="MM_swapImgRestore()" border="0" height="57" width="90"></a></p></td> 
+            &nbsp;</p></td>
+			<br />
+			&nbsp;<br />          </td>
+         <td width="10">&nbsp;</td>
+        </tr>
+    </table>	</td>
+    &nbsp;</td>
+  </tr>
+  <tr>
+    <td width="165">&nbsp;</td>
+    <td width="50">&nbsp;</td>
+    <td width="167">&nbsp;</td>
+    <td width="138">&nbsp;</td>
+    <td width="50">&nbsp;</td>
+    <td width="190">&nbsp;</td>
+	<td width="100%">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 22:48:45 Sep 22, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:26:45 Feb 10, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
